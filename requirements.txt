@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost>=3.0
+shap>=0.52
+tensorflow>=2.16
+jupyter
